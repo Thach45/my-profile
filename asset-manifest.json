@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-profile/static/css/main.e16a826c.css",
+    "main.js": "/my-profile/static/js/main.5795501e.js",
+    "static/media/anh-project1.png": "/my-profile/static/media/anh-project1.fd68f585fac35a780707.png",
+    "static/media/anh-project2.png": "/my-profile/static/media/anh-project2.5169005a67901d5f3066.png",
+    "static/media/anh2.png": "/my-profile/static/media/anh2.07569c80874966147ee7.png",
+    "index.html": "/my-profile/index.html",
+    "main.e16a826c.css.map": "/my-profile/static/css/main.e16a826c.css.map",
+    "main.5795501e.js.map": "/my-profile/static/js/main.5795501e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e16a826c.css",
+    "static/js/main.5795501e.js"
+  ]
+}
