@@ -9,7 +9,7 @@ function Home() {
                         Xin chào, tôi là <span className="text-blue-500">HOÀNG THẠCH</span>
                     </h1>
                     <p className="text-xl typewriter md:text-2xl mb-8" >
-                        BACKEND DEVELOPER
+                        FULL-STACK DEVELOPER
                     </p>
                     <a href="#contact"
                         className="bg-blue-500 text-white px-8 py-3 rounded-full text-lg font-medium hover:bg-blue-600 transition-colors animate-fadeInUp"

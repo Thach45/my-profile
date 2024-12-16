@@ -19,10 +19,10 @@ function Skill() {
                         <div className="mb-4">
                             <div className="flex justify-between mb-1">
                                 <span className="text-lg font-medium">React</span>
-                                <span className="text-lg font-medium">85%</span>
+                                <span className="text-lg font-medium">65%</span>
                             </div>
                             <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
-                                <div className="bg-blue-500 h-2.5 rounded-full" style={{width: "85%"}}></div>
+                                <div className="bg-blue-500 h-2.5 rounded-full" style={{width: "65%"}}></div>
                             </div>
                         </div>
                         <div className="mb-4">
@@ -45,7 +45,7 @@ function Skill() {
                         </div>
                         <div className="mb-4">
                             <div className="flex justify-between mb-1">
-                                <span className="text-lg font-medium">SQL</span>
+                                <span className="text-lg font-medium">MongoDB</span>
                                 <span className="text-lg font-medium">70%</span>
                             </div>
                             <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
