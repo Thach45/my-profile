@@ -9,16 +9,19 @@ import Footer from './components/Footer/Footer.js';
 import { useEffect } from 'react';
 
 function App() {
- 
+  const [show, setShow] = React.useState(false);
+  const functionShow = (app) => {
+    setShow(app);
+  }
 
   return (
     <>
-      <Header />
-      <Home />
+      <Header handleShow={functionShow} />
+      <Home handleShow={functionShow}/>
       <About />
       <Project />
       <Skill />
-      <Contact />
+      <Contact show={show} handleShow={functionShow}/>
       <Footer />
     </>
   );
