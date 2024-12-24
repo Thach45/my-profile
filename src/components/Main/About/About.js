@@ -7,7 +7,7 @@ function About() {
                     <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">Về tôi</h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
                         <div>
-                            <img src={profileImage} alt="Profile" className="rounded-full flex items-center justify-center mx-auto" />
+                            <img src={profileImage} alt="Profile" className=" hover:motion-preset-spin motion-duration-2000 rounded-full flex items-center justify-center mx-auto" />
                         </div>
                         <div>
                             <p className="text-lg mb-6">
@@ -21,7 +21,7 @@ function About() {
                                 luôn tìm kiếm cơ hội để học hỏi và áp dụng các công nghệ mới vào dự án của mình.
                             </p>
                             <a href="#projects"
-                                className="bg-blue-500 text-white px-6 py-2 rounded-full text-lg font-medium hover:bg-blue-600 transition-colors">
+                                className="bg-blue-500 text-white px-6 py-2 rounded-full text-lg font-medium hover:bg-blue-600  transition-colors">
                                 Xem dự án của tôi
                             </a>
                         </div>
